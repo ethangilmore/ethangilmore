@@ -1,3 +1,3 @@
-### Hey there! 👋
+## Hey there! 👋
 
-I'm Ethan, I like writing code👨🏽‍💻 and solving difficult problems🤓
+## I'm Ethan, I like writing code👨🏽‍💻 and solving difficult problems🤓
